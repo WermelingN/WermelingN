@@ -2,9 +2,9 @@
 
 ## I'm a Job Placement Specialist and Chess Enthusiast!
 
-- 🔭 Currently collaborating on a startup
-- 🌱 Starting a new life at 32 🤣
-- 👯 I’m looking to work with companies that need junior-level developers
+- 🔭 Currently collaborating on a startup 🚀
+- 💼 I help people find jobs in tech 💻
+- 🤝 Looking to work with companies in need of Junior Developers 🤝
 - 🥅 2022 Goals: Contribute to Open Source projects
 
 ### Connect with me:
