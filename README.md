@@ -1,6 +1,6 @@
 ### Hi there, I'm Nick - 👋 
 
-## I'm a Job Placement Specialist and Chess Enthusiast.
+## I'm a Talent Collector, Motivator, and Chess Enthusiast.
 
 - 🔭 Currently collaborating on a startup 🚀
 - 💼 I help people find jobs in tech 💻
