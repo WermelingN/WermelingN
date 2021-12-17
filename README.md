@@ -2,11 +2,11 @@
 
 ## I'm a Talent Collector, Motivator, and Chess Enthusiast.
 
-- 🔭 Currently collaborating on a startup 🚀 <img aligh="right" alt="Chess Board" width="262px"
-     src="https://docs.racket-lang.org/chess/pict.png" />
+- 🔭 Currently collaborating on a startup 🚀
 - 💼 I help people find jobs in tech 💻
 - 🤝 Looking to work with companies in need of Junior Developers 🤝
-- 🥅 2022 Goals: Contribute to Open Source projects 🥅
+- 🥅 2022 Goals: Contribute to Open Source projects 🥅  <img aligh="right" alt="Chess Board" width="262px"
+     src="https://docs.racket-lang.org/chess/pict.png" />
 
 ### Connect with me:
 <img align="left" alt="MateinOneJobs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/mateinonejobs/
