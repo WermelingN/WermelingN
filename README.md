@@ -1,6 +1,7 @@
 ### Hi there, I'm Nick - 👋 
 
-## I'm a Talent Collector, Motivator, and Chess Enthusiast. <img aligh="right" alt="Chess Board" width="32.75px"
+## I'm a Talent Collector, Motivator, and Chess Enthusiast.
+<img aligh="right" alt="Chess Board" width="32.75px"
      src="https://docs.racket-lang.org/chess/pict.png" />
 
 - 🔭 Currently collaborating on a startup 🚀
