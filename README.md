@@ -1,6 +1,7 @@
 ### Hi there, I'm Nick - 👋 
 
-## I'm a Talent Collector, Motivator, and Chess Enthusiast.
+## I'm a Talent Collector, Motivator, and Chess Enthusiast. <img aligh="right" alt="Chess Board" width="32.75px"
+     src="https://docs.racket-lang.org/chess/pict.png" />
 
 - 🔭 Currently collaborating on a startup 🚀
 - 💼 I help people find jobs in tech 💻
@@ -10,8 +11,7 @@
 ### Connect with me:
 <img align="left" alt="MateinOneJobs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/mateinonejobs/
 
- <img aligh="right" alt="Chess Board" width="131px"
-     src="https://docs.racket-lang.org/chess/pict.png" />
+
 <br />
 
 ### Languages and Tools:
