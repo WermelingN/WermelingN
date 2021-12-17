@@ -2,7 +2,7 @@
 
 ## I'm a Talent Collector, Motivator, and Chess Enthusiast.
 <img align="right" alt="Chess Board" width="110px"
-     src="https://docs.racket-lang.org/chess/pict.png" />
+     src="https://cdn5.vectorstock.com/i/1000x1000/52/79/chess-board-with-pieces-vector-1765279.jpg />
      
 
 - 🔭 Currently collaborating on a startup 🚀
