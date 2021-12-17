@@ -5,13 +5,13 @@
 - 🔭 Currently collaborating on a startup 🚀
 - 💼 I help people find jobs in tech 💻
 - 🤝 Looking to work with companies in need of Junior Developers 🤝
-- 🥅 2022 Goals: Contribute to Open Source projects 🥅  <img aligh="right" alt="Chess Board" width="262px"
-     src="https://docs.racket-lang.org/chess/pict.png" />
+- 🥅 2022 Goals: Contribute to Open Source projects 🥅 
 
 ### Connect with me:
 <img align="left" alt="MateinOneJobs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/mateinonejobs/
 
-
+ <img aligh="right" alt="Chess Board" width="131px"
+     src="https://docs.racket-lang.org/chess/pict.png" />
 <br />
 
 ### Languages and Tools:
