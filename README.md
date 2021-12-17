@@ -1,7 +1,7 @@
 ### Hi there, I'm Nick - 👋 
 
 ## I'm a Talent Collector, Motivator, and Chess Enthusiast.
-<img align="right" alt="Chess Board" width="212px"
+<img align="right" alt="Chess Board" width="210px"
      src="https://www.thegreatcoursesdaily.com/wp-content/uploads/2020/11/header-9.jpg" />
      
 
