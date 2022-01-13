@@ -8,7 +8,8 @@
 - 🔭 Currently collaborating on a startup 🚀
 - 💼 I help people find jobs in tech 💻
 - 🤝 Looking to work with companies in need of Junior Developers 🤝
--    2022 Goals: Achieve 1400 ELO rating
+-    2022 Goals:
+-    Achieve 1400 ELO rating
 -    Better utilize my degree
 -    Get back to rock climbing
 
