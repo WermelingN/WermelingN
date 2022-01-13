@@ -9,8 +9,9 @@
 - 💼 I help people find jobs in tech 💻
 - 🤝 Looking to work with companies in need of Junior Developers 🤝
 - 🥅 2022 Goals: Achieve 1400 ELO rating 🥅
-                 Better utilize my degree
-                 Get back to rock climbing!
+-    Better utilize my degree
+-    Get back to rock climbing
+
 ### Connect with me:
 <img align="left" alt="MateinOneJobs | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> https://www.linkedin.com/in/mateinonejobs/
 
